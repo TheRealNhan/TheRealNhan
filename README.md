@@ -20,6 +20,14 @@ I'm a 13-year-old developer from Vietnam
 </div>
 
 ###
+<div align="left">
+  <a href="https://discord.gg/9GvYbmHV"<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="https://www.facebook.com/minhnhan341/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+</div>
+
+###
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=minhnhan175&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
