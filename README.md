@@ -1,7 +1,10 @@
-<h1 align="center">Bùi Nguyễn Minh Nhân</h1>
-
+<h1 align="center">Bùi Nguyễn Minh Nhân (minhnhan175)</h1>
+<div align="center">
 I'm a 13-year-old developer from Vietnam
-![Profile view counter](https://komarev.com/ghpvc/?username=your-github-username)
+</div>
+
+![Profile view counter](https://komarev.com/ghpvc/?username=minhnhan175)
+
 
 ###
 <div align="center">
