@@ -16,12 +16,12 @@ I'm a 13-year-old developer from Vietnam
 </div>
 
 <div align="center">
-  <a href="https://discord.gg/9GvYbmHV"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
+  <a href="https://discord.gg/u9f6j5Vaca"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
 </div>
 
 ###
 <div align="center">
-  <a href="https://discord.gg/9GvYbmHV"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="https://discord.gg/u9f6j5Vaca"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
   <a href="https://www.facebook.com/minhnhan341/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 </div>
 
