@@ -4,7 +4,7 @@ I'm a 13-year-old developer from Vietnam
 </div>
 
 <div align="center">
-  ![Profile view counter](https://komarev.com/ghpvc/?username=minhnhan175)
+  <img src="https://komarev.com/ghpvc/?username=minhnhan175" alt="profile views" />
 </div>
 
 ###
