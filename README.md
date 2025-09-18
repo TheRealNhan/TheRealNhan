@@ -1,6 +1,6 @@
 <h1 align="center">Bùi Nguyễn Minh Nhân (minhnhan175)</h1>
 <div align="center">
-I'm a 13-year-old developer from Vietnam
+  <b>I'm a 13-year-old developer from Vietnam</b>
 </div>
 
 <div align="center">
