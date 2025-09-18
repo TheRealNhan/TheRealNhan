@@ -3,8 +3,9 @@
 I'm a 13-year-old developer from Vietnam
 </div>
 
+<div align="center">
 ![Profile view counter](https://komarev.com/ghpvc/?username=minhnhan175)
-
+</div>
 
 ###
 <div align="center">
@@ -28,19 +29,3 @@ I'm a 13-year-old developer from Vietnam
   <a href="https://discord.gg/u9f6j5Vaca"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
   <a href="https://www.facebook.com/minhnhan341/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 </div>
-
-###
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=minhnhan175&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=minhnhan175&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-<hr />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhnhan175&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhnhan175&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
