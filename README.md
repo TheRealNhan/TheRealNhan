@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minh Nhân (TheRealNhan)</h1>
 <div align="left">
+  <p align="center">English | <a href="https://github.com/TheRealNhan/TheRealNhan/README-vi.md">Tiếng Việt</a></p>
   <ul>
   <li><b>👤 I'm a 13-year-old developer from Vietnam</b></li>
   <li><b>🌱 I'm currently working on <a href="https://github.com/TheRealNhan/WeatherWeb">WeatherWeb</a> and <a href="https://github.com/Thoi-tiet/Discord-Weather-Bot">Discord-Weather-Bot</a></b></li>
