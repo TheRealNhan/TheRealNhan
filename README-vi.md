@@ -1,6 +1,6 @@
 <h1 align="center">Xin chào 👋, Tôi là Minh Nhân (TheRealNhan)</h1>
 <div align="left">
-  <p align="center"><a href="https://github.com/TheRealNhan/TheRealNhan/README.md">English</a> | Tiếng Việt</p>
+  <p align="center"><a href="https://github.com/TheRealNhan/TheRealNhan/blob/main/README.md">English</a> | Tiếng Việt</p>
   <ul>
   <li><b>👤 Tôi là một developer 13 tuổi đến từ Việt Nam.</b></li>
   <li><b>🌱 Hiện tôi đang làm việc trên những repo: <a href="https://github.com/TheRealNhan/WeatherWeb">WeatherWeb</a> and <a href="https://github.com/Thoi-tiet/Discord-Weather-Bot">Discord-Weather-Bot</a></b></li>
