@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheRealNhan" alt="profile views" />
+  <a href="https://github.com/TheRealNhan"><img src="https://komarev.com/ghpvc/?username=TheRealNhan" alt="profile views" /></a>
 </div>
 
 ## How to reach me
