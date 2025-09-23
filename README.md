@@ -47,6 +47,11 @@
 <a href="https://github.com/TheRealNhan"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealNhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></a>
   <a href="https://github.com/TheRealNhan"><img src="https://github-profile-trophy.vercel.app?username=TheRealNhan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /></a>
 </div>
+
+## Support me
+<div align="center"
+  <a href="https://www.buymeacoffee.com/random.person.255"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=random.person.255&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRealNhan/TheRealNhan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheRealNhan/TheRealNhan/output/pacman-contribution-graph.svg">
