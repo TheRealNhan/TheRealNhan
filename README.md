@@ -49,12 +49,15 @@
 </div>
 
 ## Support me
-<div align="center"
-  <a href="https://www.buymeacoffee.com/random.person.255"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=random.person.255&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/random.person.255">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=random.person.255&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRealNhan/TheRealNhan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheRealNhan/TheRealNhan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheRealNhan/TheRealNhan/output/pacman-contribution-graph.svg">
-</picture>
-
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRealNhan/TheRealNhan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheRealNhan/TheRealNhan/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheRealNhan/TheRealNhan/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
