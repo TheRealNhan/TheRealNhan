@@ -20,6 +20,8 @@
   <a href="https://www.facebook.com/minhnhan341/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
    <a href="mailto:minhnhanbuinguyen@gmail.com><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
   <a href="https://patreon.com/randomperson255">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  /></a>
+
+  [My Gravatar Profile](https://gravatar.com/therealnhan/)
 </div>
 </div>
 
